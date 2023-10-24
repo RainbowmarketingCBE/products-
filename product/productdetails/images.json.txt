@@ -47,7 +47,7 @@
             "name": "Ks",
             "images": [
                 "k01.jpg",
-                "k02.jpg"
+                "K02.jpg"
             ]
         }
     ]
