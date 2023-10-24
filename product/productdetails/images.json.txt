@@ -46,8 +46,8 @@
         {
             "name": "Ks",
             "images": [
-                "K01.jpg",
-                "K21.jpg"
+                "k01.jpg",
+                "k02.jpg"
             ]
         }
     ]
