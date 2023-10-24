@@ -1,6 +1,40 @@
 {
-    "image_list": [
-        "a",
-        "b"
+    "product_list": [
+        {
+"name":"Chicco",
+"images":[
+"C01.jpeg",
+"C02.jpeg",
+"C03.jpeg",
+"C04.jpeg",
+"C05.jpeg",
+"C06.jpeg",
+"C07.jpeg",
+]
+        },
+   {
+"name":"Mugi",
+"images":[
+"M01.jpeg",
+"M02.jpeg",
+"M03.jpeg",
+"M04.jpeg",
+"M05.jpeg",
+"M06.jpeg",
+"M07.jpeg",
+]
+        }
+{
+"name":"Ks",
+"images":[
+"K01.jpeg",
+"K02.jpeg",
+"K03.jpeg",
+"K04.jpeg",
+"K05.jpeg",
+"K06.jpeg",
+"K07.jpeg",
+]
+        },
     ]
 }
