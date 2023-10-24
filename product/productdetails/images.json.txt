@@ -1,48 +1,44 @@
 {
     "product_list": [
         {
-"name":"Chicco",
-"images":[
-"C01.jpeg",
-"C02.jpeg",
-"C03.jpeg",
-"C04.jpeg",
-"C05.jpeg",
-"C06.jpeg",
-"C07.jpeg",
-"C08.jpeg",
-"C09.jpeg",
-"C10.jpeg",
-"C11.jpeg",
-"C12.jpeg",
-"C13.jpeg",
-"C14.jpeg",
-"C15.jpeg",
-"C16.jpeg",
-"C17.jpeg",
-"C18.jpeg",
-"C19.jpeg",
-"C20.jpeg",
-"C21.jpeg"
-]
+            "name": "Chicco",
+            "images": [
+                "C01.jpg",
+                "C02.jpg",
+                "C03.jpg",
+                "C04.jpg",
+                "C05.jpg",
+                "C06.jpg",
+                "C07.jpg",
+                "C08.jpg",
+                "C09.jpg",
+                "C10.jpg",
+                "C11.jpg",
+                "C12.jpg",
+                "C13.jpg",
+                "C14.jpg",
+                "C15.jpg",
+                "C16.jpg"
+            ]
         },
-   {
-"name":"Mugi",
-"images":[
-"M01.jpeg",
-"M02.jpeg",
-"M03.jpeg",
-"M04.jpeg",
-"M05.jpeg",
-"M06.jpeg",
-"M07.jpeg"
-]
+        {
+            "name": "Mugi",
+            "images": [
+                "M01.jpg",
+                "M02.jpg",
+                "M03.jpg",
+                "M04.jpg",
+                "M05.jpg",
+                "M06.jpg",
+                "M07.jeg"
+            ]
+        },
+        {
+            "name": "Ks",
+            "images": [
+                "K01.jpg",
+                "K21.jpg"
+            ]
         }
-{
-"name":"Ks",
-"images":[
-"K01.jpeg"
-]
-        },
     ]
 }
