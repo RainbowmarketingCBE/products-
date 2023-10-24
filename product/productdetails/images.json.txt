@@ -1,11 +1,14 @@
 {
-"shop_name" : "Rainbow Marketing",
-"address" : "11/23,Lakshmipuram, Ganapathy, Coimbatore-641006, India",
-"contacts" : ["+91 95855 19629","+91 91500 59333"],
-"coordinates": {
-lat : "11.02790823200967",
-long : "76.9727310910818"
-},
+    "shop_name": "Rainbow Marketing",
+    "address": "11/23,Lakshmipuram, Ganapathy, Coimbatore-641006, India",
+    "contacts": [
+        "+91 95855 19629",
+        "+91 91500 59333"
+    ],
+    "coordinates": {
+        "lat": "11.02790823200967",
+        "long": "76.9727310910818"
+    },
     "product_list": [
         {
             "name": "Chicco",
